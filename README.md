@@ -11,6 +11,14 @@
 - 💞️ Busco colaborar em qualquer coisa que eu vá entender o código e saber que posso ajudar.
 - 📫 Meu discord: Gr4y L1z4rd#5332
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- 👋 Hola, soy @ErickNetto, un alumno con 19 años. Vivo en sur de Brasil y me gusta mucho la cybersecuridad, entonces estoy intentando aprender más sobre programación para quedar mejor en eso. Puedo hablar portugués, inglés, español y un poco de ruso.
+- 👀 Quiero hacer de esa cuenta un portafolio, ponendo aca los proyectos que ya hice y estoy hacendo. También voy a usar esa cuenta en la escuela. 
+- 💞️ Yo busco ayudar en proyectos en que yo entiendo el código.
+- 📫 Mi discord: Gr4y L1z4rd#5332
+
+
 
 <!---
 ErickNetto/ErickNetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
