@@ -3,6 +3,14 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript. I study Python sometimes too, but not too much.
 - 💞️ I’m looking to collaborate on things i understand and i know i can help.
 - 📫 How to reach me ... Gr4y L1z4rd#5332
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- 👋  Olá, eu sou @ErickNetto, um estudante de 19 anos. Moro no sul do Brasil e amo segurança da informação, então estou tentando aprender mais sobre programação para poder ficar melhor nisso. Posso falar português, inglês, espanhol e um pouco de russo.
+- 👀 Estou interessado em aprender e também em criar um portfólio com esta conta github para mostrar projetos já feitos. Esta conta será usada na escola também.
+- 🌱 Atualmente estou interessado em aprender HTML, CSS, PHP, Python e Javascript.
+- 💞️ Busco colaborar em qualquer coisa que eu vá entender o código e saber que posso ajudar.
+- 📫 Meu discord: Gr4y L1z4rd#5332
+
 
 <!---
 ErickNetto/ErickNetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
